@@ -80,3 +80,7 @@ body {
   height: auto;
   width: auto;
 }
+
+#menu a:hover {
+  color: #fff;
+}
