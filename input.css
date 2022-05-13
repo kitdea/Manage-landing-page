@@ -74,3 +74,9 @@ body {
   transform: rotate(-45deg) translateY(6px) translate(-6px);
 }
 
+#menu {
+  top: 10;
+  left: 0;
+  height: auto;
+  width: auto;
+}

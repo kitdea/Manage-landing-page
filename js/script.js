@@ -7,4 +7,3 @@ btn.addEventListener('click', () => {
   nav.classList.toggle('hidden');
 })
 
-console.log('Hello World');
