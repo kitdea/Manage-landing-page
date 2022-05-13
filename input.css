@@ -77,7 +77,7 @@ body {
 #menu {
   top: 10;
   left: 0;
-  height: auto;
+  height: 0;
   width: auto;
   transform: scaleY(100deg);
 }
