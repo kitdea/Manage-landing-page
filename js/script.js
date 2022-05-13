@@ -3,7 +3,7 @@ const nav = document.getElementById('menu');
 
 btn.addEventListener('click', () => {
   btn.classList.toggle('open');
-  nav.classList.toggle('flex').style('height: auto');
+  nav.classList.toggle('flex').style('height: 100%');
   nav.classList.toggle('hidden');
 });
 
