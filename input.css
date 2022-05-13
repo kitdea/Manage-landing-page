@@ -74,13 +74,9 @@ body {
   transform: rotate(-45deg) translateY(6px) translate(-6px);
 }
 
-#menu {
+/* #menu {
   top: 0;
   left: 0;
   height: auto;
   width: auto;
-}
-
-#menu a:hover {
-  color: #fff;
-}
+} */
