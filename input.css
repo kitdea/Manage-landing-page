@@ -79,4 +79,5 @@ body {
   left: 0;
   height: auto;
   width: auto;
+  transform: scaleY(100deg);
 }
